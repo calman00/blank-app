@@ -341,7 +341,7 @@ for r in _top:
     )
 science_html = "".join(science_items)
 
-report_title = "Calyx Cure ROI Calculator-"
+report_title = "Calyx Cure ROI Calculator"
 report_caption = "Pick your bag size and order tiers. We auto‑calculate per‑bag costs and ROI from the independent Cannabis Research Coalition Cure study."
 
 report_html = f"""
